@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  MyMovieList
+*/
+
+"movies" = "Movies";
+"favorites" = "Favorites";
+"vote_averague" = "Vote Average";
+"budget" = "Budget";
+"revenue" = "Revenue";
+"release_date" = "Release Date";
+"status" = "Status";
+"language" = "Language";
+"overview" = "Overview";
+"casting" = "Casting";
